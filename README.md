@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tyler6789
 - 👀 I’m interested in C#, JavaScript, DevOps, and Data sciences!
-- 🌱 I’m currently learning SQL and Python!
+- 🌱 I’m currently learning SQL, React, and Python!
 - 📫 How to reach me - wiggintonstudios@gmail.com
 
 <!---
